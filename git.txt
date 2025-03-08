@@ -1,0 +1,51 @@
+GITHUB 
+
+
+8thsem
+
+Project 
+Report
+
+
+java 
+Team - Project
+one team - system crashed 
+
+version control system 
+track all the code changes 
+
+Git , Github 
+Git is software/tool 
+used to maintain version of code changes/ files 
+
+Github is an application 
+Repository - projects 
+
+
+
+
+Money - wallet - locker- Bank 
+
+
+
+
+java  - application 
+
+
+
+
+Github - create account 
+Create a repository 
+https://github.com/lokeshs053/Github.git
+
+GIT install
+
+
+git commands 
+
+git clone https://github.com/lokeshs053/Github.git 
+
+
+
+
+
